@@ -15,7 +15,7 @@
                 <ul>
                     <li><a href="/josephluchs.github.io">Home</a> </li>
                     <li><a href="franklin_weather_page.html">Franklin</a></li>
-                    <li>><a href="greenville_weather_page.html">Greenville</a></li>
+                    <li>Greenville</li>
                     <li>Springfield</li>
                 </ul>
             </nav>
@@ -36,7 +36,7 @@
                 <li>&copy;2017</li>
 
                 <li>Joseph Luchs</li>
-                <li>Last Updated: 2/18/17</li>
+                <li>Last Updated: 2/3/17</li>
             </ul>
         </footer>
 
